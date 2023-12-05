@@ -1,0 +1,98 @@
+*{
+    font-family: "montserrat";
+}
+
+#title{
+    background-color: #ff4668;
+    color: white;
+}
+h1{
+    font-family: 'montserrat-black', sans-serif;
+    font-size: 3rem;
+    height: 1.5;
+}
+.container-fluid{
+    padding: 3px 15px;
+}
+/*title*/
+.images{
+    width: 40%;
+    transform: rotate(25deg);
+}
+.buttons{
+    margin: 5% 3% 5% 0;
+}
+/*features*/
+#features{
+    padding: 7% 15%;
+}
+.boxes{
+    padding: 5%;
+    text-align: center;
+}
+.icons{
+    color: #bf0039;
+}
+.icons:hover{
+    color:  #ff4668;
+    padding-bottom: 3%;
+}
+/*testimonials*/
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4668;
+    color: white;
+
+}
+.dog{
+    border-radius: 100%;
+    width: 10%;
+    margin: 3%;
+}
+/*press*/
+#press{
+    background-color: #ff4668;
+    text-align: center;
+    padding: 3%;
+    
+}
+/*pricing*/
+#pricing{
+    
+    text-align: center;
+}
+
+.box{
+    margin: 7%;
+    background-color: #ff4668;
+}
+.containa{
+    margin: 5% 15%;
+}
+.btns{
+    background-color:#bf0039;
+    padding: 2% 7%;
+    border-radius: 15px;
+    border: none;
+    color: white;
+}
+.btns:hover{
+    background-color: #ff4668;
+}
+/*call to action*/
+#cta{
+    text-align: center;
+}
+.btnx{
+    background-color:black;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 15px;
+
+}
+.h3{
+    color: #ff4668;
+}
